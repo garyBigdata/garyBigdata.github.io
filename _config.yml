@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url:https://garybigdata.github.io
+url:"https://garybigdata.github.io"
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
